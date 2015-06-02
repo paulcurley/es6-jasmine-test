@@ -1,11 +1,9 @@
+import Base from '../src/base';
 
 
-//import Base from '../src/base';
-
-//console.log(Base)
-
-export default class App {
+export default class App extends Base {
     constructor (){
+		super();
         this.name = 'test';
         console.log(this.name);
     }
