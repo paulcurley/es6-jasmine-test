@@ -1,0 +1,24 @@
+{
+  "name": "blah",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "browserify": "^10.2.3",
+    "gulp": "^3.8.11",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "browserify-shim": "^3.8.7",
+    "gulp-babel": "^5.1.0",
+    "gulp-jasmine": "^2.0.1",
+    "gulp-jest": "^0.4.0",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.35",
+    "karma-babel-preprocessor": "^5.2.1",
+    "karma-browserify": "^4.2.1",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "phantomjs": "^1.9.17"
+  }
+}
